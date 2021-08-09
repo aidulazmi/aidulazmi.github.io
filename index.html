@@ -162,7 +162,7 @@
                                 <span>I am a</span>
                             <!-- ROTATING TEXT -->
                             <span class="cd-words-wrapper">
-                                    <b class="is-visible">Developer Web</b>
+                                    <b class="is-visible">Developer Web.</b>
                                     <b class="is-hidden">Developer Android.</b>
                                     <b class="is-hidden">Konsultan TI.</b>
                                 </span>
