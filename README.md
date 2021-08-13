@@ -162,7 +162,7 @@
                             <span class="cd-words-wrapper">
                                     <b class="is-visible">Developer Web.</b>
                                     <b class="is-hidden">Developer Android.</b>
-                                    <b class="is-hidden">Konsultan TI.</b>
+                                    <b class="is-hidden">Desain Grafis.</b>
                                 </span>
                             </span>
                             <!-- type headline end -->
@@ -197,9 +197,8 @@
                                     <i data-feather="menu"></i>
                                 </div>
                                 <div class="content">
-                                    <h4 class="title"><a href="#">Business Stratagy</a></h4>
-                                    <p class="description">I throw myself down among the tall grass by the stream as I
-                                        lie close to the earth.</p>
+                                    <h4 class="title"><a href="#">Web Developer</a></h4>
+                                    <p class="description">Penulis Seorang Web Developer dan Sudah Menjadi Programmer Sejak Duduk Dibangku SMK dan Menjadi Seorang Freelancer.</p>
                                     <a class="read-more-button" href="#"><i class="feather-arrow-right"></i></a>
                                 </div>
                             </div>
@@ -216,8 +215,7 @@
                                 </div>
                                 <div class="content">
                                     <h4 class="title"><a href="#">App Development</a></h4>
-                                    <p class="description"> It uses a dictionary of over 200 Latin words, combined with
-                                        a handful of model sentence.</p>
+                                    <p class="description"> Penulis Seorang Web Developer dan Sudah Menjadi Programmer Sejak Duduk Dibangku SMK dan Menjadi Seorang Freelancer.</p>
                                     <a class="read-more-button" href="#"><i class="feather-arrow-right"></i></a>
                                 </div>
                             </div>
@@ -233,9 +231,8 @@
                                     <i data-feather="tv"></i>
                                 </div>
                                 <div class="content">
-                                    <h4 class="title"><a href="#">App Development</a></h4>
-                                    <p class="description">I throw myself down among the tall grass by the stream as I
-                                        lie close to the earth.</p>
+                                    <h4 class="title"><a href="#">Konsultan IT</a></h4>
+                                    <p class="description">Penulis Seorang Web Developer dan Sudah Menjadi Programmer Sejak Duduk Dibangku SMK dan Menjadi Seorang Freelancer.</p>
                                     <a class="read-more-button" href="#"><i class="feather-arrow-right"></i></a>
                                 </div>
                             </div>
@@ -1402,13 +1399,13 @@
                                 <img src="assets/images/contact/contact1.png" alt="contact-img">
                             </div>
                             <div class="title-area">
-                                <h4 class="title">Aidul Azmi. S</h4>
-                                <span>Owner DazTek</span>
+                                <h4 class="title">Nevine Acotanza</h4>
+                                <span>Chief Operating Officer</span>
                             </div>
                             <div class="description">
                                 <p>I am available for freelance work. Connect with me via and call in to my account.
                                 </p>
-                                <span class="phone">Phone: <a href="tel:01941043264">+628</a></span>
+                                <span class="phone">Phone: <a href="tel:01941043264">+01234567890</a></span>
                                 <span class="mail">Email: <a href="mailto:admin@example.com">admin@example.com</a></span>
                             </div>
                             <div class="social-area">
