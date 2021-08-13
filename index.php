@@ -363,9 +363,6 @@
                             <li class="nav-item">
                                 <a class="nav-link" id="experience-tab" data-toggle="tab" href="#experience" role="tab" aria-controls="experience" aria-selected="false">experience</a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link" id="interview-tab" data-toggle="tab" href="#interview" role="tab" aria-controls="interview" aria-selected="false">interview</a>
-                            </li>
                         </ul>
                         <!-- Start Tab Content Wrapper  -->
                         <div class="rn-nav-content tab-content" id="myTabContents">
@@ -376,8 +373,8 @@
                                         <!-- Start Skill List Area  -->
                                         <div class="col-lg-6 col-md-12 col-12">
                                             <div class="content">
-                                                <span class="subtitle">2007 - 2010</span>
-                                                <h4 class="maintitle">Education Quality</h4>
+                                                <span class="subtitle">2002 - 2019</span>
+                                                <h4 class="maintitle">Education</h4>
                                                 <div class="experience-list">
 
                                                     <!-- Start Single List  -->
@@ -385,17 +382,12 @@
                                                         <div class="inner">
                                                             <div class="heading">
                                                                 <div class="title">
-                                                                    <h4>Personal Portfolio April Fools</h4>
-                                                                    <span>University of DVI (1997 - 2001)</span>
+                                                                    <h4>Elementary School</h4>
+                                                                    <span>SDN 001 Rumbai (2002 - 2008)</span>
                                                                 </div>
-                                                                <div class="date-of-time">
-                                                                    <span>4.30/5</span>
-                                                                </div>
+                                                                
                                                             </div>
-                                                            <p class="description">The education should be very
-                                                                interactual. Ut tincidunt est ac dolor aliquam sodales.
-                                                                Phasellus sed mauris hendrerit, laoreet sem in, lobortis
-                                                                mauris hendrerit ante.</p>
+                                                            <p class="description">Penulis Bersekolah di Sekolah Dasar Negeri 001 Rumbai Pada Tahun 2002 - 2008.</p>
                                                         </div>
                                                     </div>
                                                     <!-- End Single List  -->
@@ -405,17 +397,12 @@
                                                         <div class="inner">
                                                             <div class="heading">
                                                                 <div class="title">
-                                                                    <h4> Examples Of Personal Portfolio</h4>
-                                                                    <span>College of Studies (2000 - 2002)</span>
+                                                                    <h4>Creative School</h4>
+                                                                    <span>SMPN 29 Pekanbaru (2008 - 2011)</span>
                                                                 </div>
-                                                                <div class="date-of-time">
-                                                                    <span>4.50/5</span>
-                                                                </div>
+                                                                
                                                             </div>
-                                                            <p class="description">Maecenas finibus nec sem ut
-                                                                imperdiet. Ut tincidunt est ac dolor aliquam sodales.
-                                                                Phasellus sed mauris hendrerit, laoreet sem in, lobortis
-                                                                mauris hendrerit ante.</p>
+                                                            <p class="description">Penulis Bersekolah di Sekolah Menegah Pertama Negeri 29 Pekanbaru Pada Tahun 2008 - 2011.</p>
                                                         </div>
                                                     </div>
                                                     <!-- End Single List  -->
@@ -425,21 +412,34 @@
                                                         <div class="inner">
                                                             <div class="heading">
                                                                 <div class="title">
-                                                                    <h4>Tips For Personal Portfolio</h4>
-                                                                    <span>University of Studies (1997 - 2001)</span>
+                                                                    <h4>Hight School</h4>
+                                                                    <span>SMKN 7 Pekanbaru (2011 - 2014)</span>
                                                                 </div>
                                                                 <div class="date-of-time">
                                                                     <span>4.80/5</span>
                                                                 </div>
                                                             </div>
-                                                            <p class="description"> If you are going to use a passage.
-                                                                Ut tincidunt est ac dolor aliquam sodales.
-                                                                Phasellus sed mauris hendrerit, laoreet sem in, lobortis
-                                                                mauris hendrerit ante.</p>
+                                                            <p class="description"> <p class="description">Penulis Bersekolah di Sekolah Menengah Kejuruan Negeri 7 Pekanbaru Pada Tahun 2011 - 2014, penulis mengikuti lomba LKS bagian lomba WEB Design dan telah Menjadi Freelancer web.</p></p>
                                                         </div>
                                                     </div>
                                                     <!-- End Single List  -->
 
+                                                    <!-- Start Single List  -->
+                                                    <div class="resume-single-list">
+                                                        <div class="inner">
+                                                            <div class="heading">
+                                                                <div class="title">
+                                                                    <h4>University</h4>
+                                                                    <span>UIN SUSKA RIAU (2014 - 2019)</span>
+                                                                </div>
+                                                                <div class="date-of-time">
+                                                                    <span>4.80/5</span>
+                                                                </div>
+                                                            </div>
+                                                            <p class="description"> <p class="description">Penulis Merupakan Lulusan Dari Sebuah Universitas di Riau yaitu Universitas Islam Negeri Sultan Syarif Kasim Riau pada Tahun 2019.</p></p>
+                                                        </div>
+                                                    </div>
+                                                    <!-- End Single List  -->
                                                 </div>
                                             </div>
                                         </div>
