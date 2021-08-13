@@ -252,7 +252,6 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div data-aos="fade-up" data-aos-duration="500" data-aos-delay="100" data-aos-once="true" class="section-title text-center">
-                            <span class="subtitle">Visit my portfolio and keep your feedback</span>
                             <h2 class="title">My Portfolio</h2>
                         </div>
                     </div>
@@ -265,20 +264,20 @@
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="javascript:void(0)">
-                                        <img src="assets/images/portfolio/portfolio-01.jpg" alt="Personal Portfolio Images">
+                                        <img src="assets/images/portfolio/P1.JPG" alt="Personal Portfolio Images">
                                     </a>
                                 </div>
                                 <div class="content">
                                     <div class="category-info">
                                         <div class="category-list">
-                                            <a href="javascript:void(0)">Development</a>
+                                            <a href="javascript:void(0)">Aplikasi Android</a>
                                         </div>
                                         <div class="meta">
                                             <span><a href="javascript:void(0)"><i class="feather-heart"></i></a>
-                                                600</span>
+                                                Sibusway</span>
                                         </div>
                                     </div>
-                                    <h4 class="title"><a href="javascript:void(0)">The services provide for design <i
+                                    <h4 class="title"><a href="javascript:void(0)">Deskripsi Projek <i
                                                 class="feather-arrow-up-right"></i></a></h4>
                                 </div>
                             </div>
@@ -350,8 +349,8 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="section-title text-center">
-                            <span class="subtitle">7+ Years of Experience</span>
-                            <h2 class="title">My Resume</h2>
+                            <span class="subtitle">7+ Years of Experience1</span>
+                            <h2 class="title">My Resume 1</h2>
                         </div>
                     </div>
                 </div>
