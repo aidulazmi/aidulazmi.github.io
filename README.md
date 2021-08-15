@@ -37,7 +37,6 @@
                     <li class="nav-item"><a class="nav-link smoth-animation-two" href="#features"> <i data-feather="briefcase"></i>Features</a></li>
                     <li class="nav-item"><a class="nav-link smoth-animation-two" href="#portfolio"><i data-feather="layers"></i>Portfolio</a></li>
                     <li class="nav-item"><a class="nav-link smoth-animation-two" href="#resume"><i data-feather="users"></i>Resume</a></li>
-                    <li class="nav-item"><a class="nav-link smoth-animation-two" href="#pricing"><i data-feather="shopping-cart"></i>Pricing</a></li>
                     <li class="nav-item"><a class="nav-link smoth-animation-two" href="#blog"><i data-feather="image"></i>blog</a></li>
                     <li class="nav-item"><a class="nav-link smoth-animation-two" href="#contacts"><i data-feather="message-circle"></i>Contact</a></li>
                 </ul>
@@ -110,7 +109,6 @@
                     <li class="nav-item"><a class="nav-link smoth-animation-two" href="#features">Features</a></li>
                     <li class="nav-item"><a class="nav-link smoth-animation-two" href="#portfolio">Portfolio</a></li>
                     <li class="nav-item"><a class="nav-link smoth-animation-two" href="#resume">Resume</a></li>
-                    <li class="nav-item"><a class="nav-link smoth-animation-two" href="#pricing">Pricing</a></li>
                     <li class="nav-item"><a class="nav-link smoth-animation-two" href="#blog">blog</a></li>
                     <li class="nav-item"><a class="nav-link smoth-animation-two" href="#contacts">Contact</a></li>
                 </ul>
@@ -524,23 +522,13 @@
                                             <div class="progress-wrapper">
                                                 <div class="content">
                                                     <span class="subtitle">Features</span>
-                                                    <h4 class="maintitle">Design Skill</h4>
+                                                    <h4 class="maintitle">Design Skill/DBMS Skill</h4>
                                                     <!-- Start Single Progress Charts -->
                                                     <div class="progress-charts">
-                                                        <h6 class="heading heading-h6">PHOTOSHOT</h6>
+                                                        <h6 class="heading heading-h6">PHOTOSHOP</h6>
                                                         <div class="progress">
-                                                            <div class="progress-bar wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay=".3s" role="progressbar" style="width: 100%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">100%</span></div>
-                                                        </div>
-                                                    </div>
-                                                    <!-- End Single Progress Charts -->
-
-                                                    <!-- Start Single Progress Charts -->
-                                                    <div class="progress-charts">
-                                                        <h6 class="heading heading-h6">FIGMA</h6>
-                                                        <div class="progress">
-                                                            <div class="progress-bar wow fadeInLeft" data-wow-duration="0.6s" data-wow-delay=".4s" role="progressbar" style="width: 95%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">95%</span></div>
+                                                            <div class="progress-bar wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay=".3s" role="progressbar" style="width: 70%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span
+                                                            class="percent-label">70%</span></div>
                                                         </div>
                                                     </div>
                                                     <!-- End Single Progress Charts -->
@@ -549,8 +537,8 @@
                                                     <div class="progress-charts">
                                                         <h6 class="heading heading-h6">ADOBE XD</h6>
                                                         <div class="progress">
-                                                            <div class="progress-bar wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay=".5s" role="progressbar" style="width: 60%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">60%</span></div>
+                                                            <div class="progress-bar wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay=".5s" role="progressbar" style="width: 80%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span
+                                                            class="percent-label">80%</span></div>
                                                         </div>
                                                     </div>
                                                     <!-- End Single Progress Charts -->
@@ -564,17 +552,34 @@
                                                         </div>
                                                     </div>
                                                     <!-- End Single Progress Charts -->
-
                                                     <!-- Start Single Progress Charts -->
                                                     <div class="progress-charts">
-                                                        <h6 class="heading heading-h6">DESIGN</h6>
+                                                        <h6 class="heading heading-h6">MYSQL</h6>
                                                         <div class="progress">
-                                                            <div class="progress-bar wow fadeInLeft" data-wow-duration="0.9s" data-wow-delay=".7s" role="progressbar" style="width: 90%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span
+                                                            <div class="progress-bar wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay=".6s" role="progressbar" style="width: 90%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span
                                                             class="percent-label">90%</span></div>
                                                         </div>
                                                     </div>
                                                     <!-- End Single Progress Charts -->
-
+                                                    <!-- Start Single Progress Charts -->
+                                                    <div class="progress-charts">
+                                                        <h6 class="heading heading-h6">Postgresql</h6>
+                                                        <div class="progress">
+                                                            <div class="progress-bar wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay=".6s" role="progressbar" style="width: 80%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span
+                                                            class="percent-label">80%</span></div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- End Single Progress Charts -->
+                                                    <!-- Start Single Progress Charts -->
+                                                    <div class="progress-charts">
+                                                        <h6 class="heading heading-h6">Oracle</h6>
+                                                        <div class="progress">
+                                                            <div class="progress-bar wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay=".6s" role="progressbar" style="width: 75%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span
+                                                            class="percent-label">75%</span></div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- End Single Progress Charts -->
+                                                    
                                                 </div>
                                             </div>
                                         </div>
@@ -605,20 +610,46 @@
                                                         </div>
                                                     </div>
                                                     <!-- End Single Progress Charts -->
-
-                                                    <!-- Start Single Progress Charts -->
+                                                     <!-- Start Single Progress Charts -->
                                                     <div class="progress-charts">
-                                                        <h6 class="heading heading-h6">JAVASCRIPT</h6>
+                                                        <h6 class="heading heading-h6">PHP</h6>
                                                         <div class="progress">
-                                                            <div class="progress-bar wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay=".5s" role="progressbar" style="width: 90%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span
+                                                            <div class="progress-bar wow fadeInLeft" data-wow-duration="0.6s" data-wow-delay=".4s" role="progressbar" style="width: 87%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span
+                                                            class="percent-label">87%</span></div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- End Single Progress Charts -->
+                                                    <div class="progress-charts">
+                                                        <h6 class="heading heading-h6">Android</h6>
+                                                        <div class="progress">
+                                                            <div class="progress-bar wow fadeInLeft" data-wow-duration="0.6s" data-wow-delay=".4s" role="progressbar" style="width: 90%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span
                                                             class="percent-label">90%</span></div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- End Single Progress Charts -->
+                                                    <!-- End Single Progress Charts -->
+                                                    <div class="progress-charts">
+                                                        <h6 class="heading heading-h6">Flutter</h6>
+                                                        <div class="progress">
+                                                            <div class="progress-bar wow fadeInLeft" data-wow-duration="0.6s" data-wow-delay=".4s" role="progressbar" style="width: 80%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span
+                                                            class="percent-label">80%</span></div>
                                                         </div>
                                                     </div>
                                                     <!-- End Single Progress Charts -->
 
                                                     <!-- Start Single Progress Charts -->
                                                     <div class="progress-charts">
-                                                        <h6 class="heading heading-h6">SOFTWARE</h6>
+                                                        <h6 class="heading heading-h6">JAVASCRIPT</h6>
+                                                        <div class="progress">
+                                                            <div class="progress-bar wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay=".5s" role="progressbar" style="width: 70%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span
+                                                            class="percent-label">70%</span></div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- End Single Progress Charts -->
+
+                                                    <!-- Start Single Progress Charts -->
+                                                    <div class="progress-charts">
+                                                        <h6 class="heading heading-h6">LARAVEL</h6>
                                                         <div class="progress">
                                                             <div class="progress-bar wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay=".6s" role="progressbar" style="width: 75%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span
                                                             class="percent-label">75%</span></div>
@@ -628,14 +659,31 @@
 
                                                     <!-- Start Single Progress Charts -->
                                                     <div class="progress-charts">
-                                                        <h6 class="heading heading-h6">PLUGIN</h6>
+                                                        <h6 class="heading heading-h6">Codeneigter</h6>
                                                         <div class="progress">
-                                                            <div class="progress-bar wow fadeInLeft" data-wow-duration="0.9s" data-wow-delay=".7s" role="progressbar" style="width: 70%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">70%</span></div>
+                                                            <div class="progress-bar wow fadeInLeft" data-wow-duration="0.9s" data-wow-delay=".7s" role="progressbar" style="width: 90%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span
+                                                            class="percent-label">90%</span></div>
                                                         </div>
                                                     </div>
                                                     <!-- End Single Progress Charts -->
-
+                                                    <div class="progress-charts">
+                                                        <h6 class="heading heading-h6">VB.6</h6>
+                                                        <div class="progress">
+                                                            <div class="progress-bar wow fadeInLeft" data-wow-duration="0.9s" data-wow-delay=".7s" role="progressbar" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span
+                                                            class="percent-label">85%</span></div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- End Single Progress Charts -->
+                                                    <!-- End Single Progress Charts -->
+                                                    <div class="progress-charts">
+                                                        <h6 class="heading heading-h6">Visual Basic Application</h6>
+                                                        <div class="progress">
+                                                            <div class="progress-bar wow fadeInLeft" data-wow-duration="0.9s" data-wow-delay=".7s" role="progressbar" style="width: 86%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"><span
+                                                            class="percent-label">86%</span></div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- End Single Progress Charts -->
+                                                    
                                                 </div>
                                             </div>
                                         </div>
@@ -957,322 +1005,6 @@
             </div>
         </div>
         <!-- End Resume Area -->
-
-        <!-- Pricing Area -->
-        <div class="rn-pricing-area rn-section-gap section-separator" id="pricing">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-4 col-xl-5 mb_md--40 mb_sm--40 small-margin-pricing">
-                        <div class="d-block d-lg-flex text-center d-lg-left section-flex flex-wrap align-content-start h-100">
-                            <div class="position-sticky sticky-top rbt-sticky-top-adjust">
-                                <div class="section-title text-left">
-                                    <span class="subtitle text-center text-lg-left">Pricing</span>
-                                    <h2 class="title text-center text-lg-left">My Pricing</h2>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-8 col-xl-7">
-                        <!-- Pricing Area -->
-                        <div class="navigation-wrapper">
-                            <ul class="nav " id="myTab" role="tablist">
-                                <li class="nav-item ">
-                                    <a class="nav-style" id="test-tab" data-toggle="tab" href="#test" role="tab" aria-controls="test" aria-selected="false">Static</a>
-                                </li>
-
-                                <li class="nav-item  recommended">
-                                    <a class="nav-style active" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="true">Standard</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-style" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Premium</a>
-                                </li>
-                            </ul>
-                            <div class="tab-content" id="myTabContent">
-
-                                <div class="tab-pane fade " id="test" role="tabpanel" aria-labelledby="test-tab">
-                                    <!-- Pricing Start -->
-                                    <div class="rn-pricing">
-                                        <div class="pricing-header">
-                                            <div class="header-left">
-                                                <h2 class="title">Make Your Single Page</h2>
-                                                <span>Elementor</span>
-                                            </div>
-                                            <div class="header-right">
-                                                <span>$30.00</span>
-                                            </div>
-                                        </div>
-                                        <div class="pricing-body">
-                                            <p class="description">
-                                                All the Lorem Ipsum generators on the Internet tend to repeat predefined
-                                                chunks as necessary
-                                            </p>
-                                            <div class="check-wrapper">
-                                                <div class="left-area">
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>1 Page with Elementor</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Design Customization</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Responsive Design</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Content Upload</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Design Customization</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>2 Plugins/Extensions</p>
-                                                    </div>
-                                                </div>
-                                                <div class="right-area">
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>multipage Elementor</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Design Figma</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>MAintaine Design</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Content Upload</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Design With XD</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>8 Plugins/Extensions</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="pricing-footer">
-                                            <a href="#" class="rn-btn d-block">
-                                                <span>ORDER NOW</span>
-                                                <i data-feather="arrow-right"></i>
-                                            </a>
-                                            <div class="time-line">
-                                                <div class="single-cmt d-flex">
-                                                    <i data-feather="clock"></i>
-                                                    <span>2 Days Delivery</span>
-                                                </div>
-                                                <div class="single-cmt d-flex">
-                                                    <i data-feather="activity"></i>
-                                                    <span>Unlimited Revission</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- End -->
-                                </div>
-
-                                <div class="tab-pane fade show active" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-                                    <!-- Pricing Start -->
-                                    <div class="rn-pricing">
-                                        <div class="pricing-header">
-                                            <div class="header-left">
-                                                <h2 class="title">Design Make this Page</h2>
-                                                <span>Elementor</span>
-                                            </div>
-                                            <div class="header-right">
-                                                <span>$50.00</span>
-                                            </div>
-                                        </div>
-                                        <div class="pricing-body">
-                                            <p class="description">
-                                                Making this the first true generator on the Internet. It uses a
-                                                dictionary & plugin Development.
-                                            </p>
-                                            <div class="check-wrapper">
-                                                <div class="left-area">
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>1 Page with Elementor</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Design Customization</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Responsive Design</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Content Upload</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Design Customization</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>2 Plugins/Extensions</p>
-                                                    </div>
-                                                </div>
-                                                <div class="right-area">
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>multipage Elementor</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Design Figma</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>MAintaine Design</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Content Upload</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Design With XD</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>8 Plugins/Extensions</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="pricing-footer">
-                                            <a href="#" class="rn-btn d-block">
-                                                <span>ORDER NOW</span>
-                                                <i data-feather="arrow-right"></i>
-                                            </a>
-                                            <div class="time-line d-flex">
-                                                <div class="single-cmt d-flex">
-                                                    <i data-feather="clock"></i>
-                                                    <span>2 Days Delivery</span>
-                                                </div>
-                                                <div class="single-cmt d-flex">
-                                                    <i data-feather="activity"></i>
-                                                    <span>Unlimited Revission</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- End -->
-                                </div>
-
-                                <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
-                                    <!-- Pricing Start -->
-                                    <div class="rn-pricing">
-                                        <div class="pricing-header">
-                                            <div class="header-left">
-                                                <h2 class="title">Customize Your Single Page</h2>
-                                                <span>Elementor</span>
-                                            </div>
-                                            <div class="header-right">
-                                                <span>$90.00</span>
-                                            </div>
-                                        </div>
-                                        <div class="pricing-body">
-                                            <p class="description">
-                                                I will install your desire theme and made like Theme demo and customize
-                                                your single page( homepage)
-                                            </p>
-                                            <div class="check-wrapper">
-                                                <div class="left-area">
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>1 Page with Elementor</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Design Customization</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Responsive Design</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Content Upload</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Design Customization</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>2 Plugins/Extensions</p>
-                                                    </div>
-                                                </div>
-                                                <div class="right-area">
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>multipage Elementor</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Design Figma</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>MAintaine Design</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Content Upload</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>Design With XD</p>
-                                                    </div>
-                                                    <div class="check d-flex">
-                                                        <i data-feather="check"></i>
-                                                        <p>8 Plugins/Extensions</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="pricing-footer">
-                                            <a href="#" class="rn-btn d-block">
-                                                <span>ORDER NOW</span>
-                                                <i data-feather="arrow-right"></i>
-                                            </a>
-                                            <div class="time-line d-flex">
-                                                <div class="single-cmt d-flex">
-                                                    <i data-feather="clock"></i>
-                                                    <span>2 Days Delivery</span>
-                                                </div>
-                                                <div class="single-cmt d-flex">
-                                                    <i data-feather="activity"></i>
-                                                    <span>Unlimited Revission</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- End -->
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End -->
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- pricing area -->
         <!-- Start News Area -->
         <div class="rn-blog-area rn-section-gap section-separator" id="blog">
             <div class="container">
