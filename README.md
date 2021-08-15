@@ -448,7 +448,7 @@
                                         <!-- Start Skill List Area 2nd  -->
                                         <div class="col-lg-6 col-md-12 col-12 mt_md--60 mt_sm--60">
                                             <div class="content">
-                                                <span class="subtitle">2007 - 2010</span>
+                                                <span class="subtitle">2007 - Present</span>
                                                 <h4 class="maintitle">Job Experience</h4>
                                                 <div class="experience-list">
 
@@ -457,17 +457,40 @@
                                                         <div class="inner">
                                                             <div class="heading">
                                                                 <div class="title">
-                                                                    <h4>Diploma in Web Development</h4>
-                                                                    <span>BSE In CSE (2004 - 2008)</span>
+                                                                    <h4>Web and Android Developer</h4>
+                                                                    <span>Freelancer (2017 - Present)</span>
                                                                 </div>
-                                                                <div class="date-of-time">
-                                                                    <span>4.70/5</span>
+                                                                
+                                                            </div>
+                                                            <p class="description">As a freelancer i took a project medium orsmall that no have to require big team to handle it.</p>
+                                                        </div>
+                                                    </div>
+                                                    <!-- End Single List  -->
+
+                                                     <!-- Start Single List  -->
+                                                    <div class="resume-single-list">
+                                                        <div class="inner">
+                                                            <div class="heading">
+                                                                <div class="title">
+                                                                    <h4>WANXP</h4>
+                                                                    <span>Siswa Magang SMKN (2012)</span>
+                                                                </div>
+                                                                
+                                                            </div>
+                                                            <p class="description">The author has done practical work while studying at SMKN 7 Pekanbaru and holds WANXP which is a CV engaged in Internet Service Provider (ISP).</p>
+                                                        </div>
+                                                    </div>
+                                                    <!-- End Single List  -->
+                                                    <!-- Start Single List  -->
+                                                    <div class="resume-single-list">
+                                                        <div class="inner">
+                                                            <div class="heading">
+                                                                <div class="title">
+                                                                    <h4>RS Prof. Dr. Tabrani Pekanbaru</h4>
+                                                                    <span>Mahasiswa Magang (2018)</span>
                                                                 </div>
                                                             </div>
-                                                            <p class="description">Contrary to popular belief. Ut
-                                                                tincidunt est ac dolor aliquam sodales.
-                                                                Phasellus sed mauris hendrerit, laoreet sem in, lobortis
-                                                                mauris hendrerit ante.</p>
+                                                            <p class="description">RS Prof Dr. Tabrani is a hospital that is located at jl. sudirman Pekanbaru, i completed my reponsibilities and assigments as a student for the requirements of completing my bachelor's degree.</p>
                                                         </div>
                                                     </div>
                                                     <!-- End Single List  -->
@@ -477,38 +500,11 @@
                                                         <div class="inner">
                                                             <div class="heading">
                                                                 <div class="title">
-                                                                    <h4>The Personal Portfolio Mystery</h4>
-                                                                    <span>Job at Rainbow-Themes (2008 - 2016)</span>
-                                                                </div>
-                                                                <div class="date-of-time">
-                                                                    <span>4.95/5</span>
+                                                                    <h4>PT. Elrei Dasera Nusantara</h4>
+                                                                    <span>Programmer (2021)</span>
                                                                 </div>
                                                             </div>
-                                                            <p class="description">Generate Lorem Ipsum which looks. Ut
-                                                                tincidunt est ac dolor aliquam sodales.
-                                                                Phasellus sed mauris hendrerit, laoreet sem in, lobortis
-                                                                mauris hendrerit ante.</p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- End Single List  -->
-
-                                                    <!-- Start Single List  -->
-                                                    <div class="resume-single-list">
-                                                        <div class="inner">
-                                                            <div class="heading">
-                                                                <div class="title">
-                                                                    <h4>Diploma in Computer Science</h4>
-                                                                    <span>Works at Plugin Development (2016 -
-                                                                2020)</span>
-                                                                </div>
-                                                                <div class="date-of-time">
-                                                                    <span>5.00/5</span>
-                                                                </div>
-                                                            </div>
-                                                            <p class="description">Maecenas finibus nec sem ut
-                                                                imperdiet. Ut tincidunt est ac dolor aliquam sodales.
-                                                                Phasellus sed mauris hendrerit, laoreet sem in, lobortis
-                                                                mauris hendrerit ante.</p>
+                                                            <p class="description">The author is a programmer who works at PT. Elrei Dasera Nusantara, in which the task of the author is to build, improve and develop the system required by PT. Elrei Dasera Nusantara.</p>
                                                         </div>
                                                     </div>
                                                     <!-- End Single List  -->
