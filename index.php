@@ -415,9 +415,7 @@
                                                                     <h4>Hight School</h4>
                                                                     <span>SMKN 7 Pekanbaru (2011 - 2014)</span>
                                                                 </div>
-                                                                <div class="date-of-time">
-                                                                    <span>4.80/5</span>
-                                                                </div>
+                                                                
                                                             </div>
                                                             <p class="description"> <p class="description">Penulis Bersekolah di Sekolah Menengah Kejuruan Negeri 7 Pekanbaru Pada Tahun 2011 - 2014, penulis mengikuti lomba LKS bagian lomba WEB Design dan telah Menjadi Freelancer web.</p></p>
                                                         </div>
@@ -432,9 +430,7 @@
                                                                     <h4>University</h4>
                                                                     <span>UIN SUSKA RIAU (2014 - 2019)</span>
                                                                 </div>
-                                                                <div class="date-of-time">
-                                                                    <span>4.80/5</span>
-                                                                </div>
+                                                                
                                                             </div>
                                                             <p class="description"> <p class="description">Penulis Merupakan Lulusan Dari Sebuah Universitas di Riau yaitu Universitas Islam Negeri Sultan Syarif Kasim Riau pada Tahun 2019.</p></p>
                                                         </div>
