@@ -194,8 +194,8 @@
                                     <i data-feather="menu"></i>
                                 </div>
                                 <div class="content">
-                                    <h4 class="title"><a href="#">Web Developer</a></h4>
-                                    <p class="description">Penulis Seorang Web Developer dan Sudah Menjadi Programmer Sejak Duduk Dibangku SMK dan Menjadi Seorang Freelancer.</p>
+                                    <h4 class="title"><a href="#">WEBSITE DEVELOPMENT</a></h4>
+                                    <p class="description">Pentingnya Website Sebagai Penunjang yang Efektif dalam Mendia Komunikasi Digital</p>
                                     <a class="read-more-button" href="#"><i class="feather-arrow-right"></i></a>
                                 </div>
                             </div>
@@ -211,8 +211,8 @@
                                     <i data-feather="book-open"></i>
                                 </div>
                                 <div class="content">
-                                    <h4 class="title"><a href="#">App Development</a></h4>
-                                    <p class="description"> Penulis Seorang Web Developer dan Sudah Menjadi Programmer Sejak Duduk Dibangku SMK dan Menjadi Seorang Freelancer.</p>
+                                    <h4 class="title"><a href="#">MOBILE APPS</a></h4>
+                                    <p class="description">Ciptakan Mobile Apps yang Sesuai dengan Kebutuhan Bisnis atau Perusahaan Anda.</p>
                                     <a class="read-more-button" href="#"><i class="feather-arrow-right"></i></a>
                                 </div>
                             </div>
@@ -228,8 +228,8 @@
                                     <i data-feather="tv"></i>
                                 </div>
                                 <div class="content">
-                                    <h4 class="title"><a href="#">Konsultan IT</a></h4>
-                                    <p class="description">Penulis Seorang Web Developer dan Sudah Menjadi Programmer Sejak Duduk Dibangku SMK dan Menjadi Seorang Freelancer.</p>
+                                    <h4 class="title"><a href="#">Sistem Informasi</a></h4>
+                                    <p class="description">Pengembangan Sistem Informasi Dimulai dengan memahai Proses Bisnis yang Berjalan</p>
                                     <a class="read-more-button" href="#"><i class="feather-arrow-right"></i></a>
                                 </div>
                             </div>
